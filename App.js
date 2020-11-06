@@ -16,7 +16,7 @@ export default function App() {
     { name: "Hondo", key: "4" },
     { name: "Dambudzo", key: "5" },
     { name: "Madzudzo", key: "6" },
-    { name: "Banbo", key: "7" },
+    { name: "Bambo", key: "7" },
   ]);
 
   const pressHandler = (id) => {
